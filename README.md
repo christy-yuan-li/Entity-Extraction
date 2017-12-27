@@ -1,4 +1,4 @@
-# Entity-backend
+# Entity-Extraction
 
 This is a package of extracting entities of various types. The included functions are: 
 
