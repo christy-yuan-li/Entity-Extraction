@@ -4,6 +4,17 @@ This is a package of extracting entities of various types from textual input. Th
 
 1. Time entity extraction (TimeEntity.py).
 
+Medical entity results...
+
+[sentence]:  An 83-year-old man comes to the physician because of a 2-day history of constant severe pain of his right knee.
+[entity]:  pain [category]:  symptoms [startPos]:  15 [endPos]:  16
+  
+[sentence]:  Treatment with ibuprofen during the next week significantly improves his condition.
+[entity]:  ibuprofen [category]:  medication [startPos]:  2 [endPos]:  3
+ 
+[sentence]:  A 16-year-old boy comes to the physician because of a rash on his left inner thigh that first appeared 2 days after he returned from a hunting trip with friends in Minnesota.
+[entity]:  rash [category]:  disease [startPos]:  10 [endPos]:  11
+
 2. Quantity entity extraction (QuantityEntity.py).
 
 3. Negaiton entity extraction (NegationEntity.py).
