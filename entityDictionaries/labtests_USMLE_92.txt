@@ -1,0 +1,92 @@
+Leukocyte count and differential
+Segmented neutrophils
+17-Ketosteroids, total
+Triglycerides, serum
+Proteins, serum, Globulin
+Electrolytes, serum
+Lymphocytes
+Triiodothyronine (T3), serum (RIA)
+Bands
+Pressure
+Estriol, total (in pregnancy)
+Lactate dehydrogenase, serum
+Hemoglobin A1C
+Basophils
+PCO2, Gases, arterial blood (room air)
+Parathyroid hormone, serum, N-terminal
+Cholesterol, serum
+Leukocyte count
+Gases, arterial blood (room air)
+Hemoglobin, plasma
+Hematocrit
+Phosphatase (alkaline), serum (p-NPP at 30 ° C)
+Monocytes
+Sodium
+Reticulocyte count
+Sodium (Na+)
+Immunoglobulins, serum
+Plasma
+Triiodothyronine (T3) resin uptake
+IgG
+IgE
+Luteinizing hormone, serum/plasma
+IgA
+IgM
+Prolactin, serum (hPRL)
+Mean corpuscular hemoglobin concentration
+Bicarbonate (HCO3-)
+Thyroxine (T4), serum
+Platelet count
+Creatinine, serum
+Partial thromboplastin time (activated)
+Follicle-stimulating hormone, serum/plasma
+Erythrocyte count
+Glucose, serum
+Thrombin time
+Cell count
+Creatinine clearance
+Uric acid, serum
+Red cell
+Erythrocyte sedimentation rate (Westergren)
+Creatine kinase, serum
+Proteins, total
+Oxalate
+Proteins, serum
+Proteins, serum, Albumin
+Glucose
+Potassium
+17-Hydroxycorticosteroids
+Alanine aminotransferase (ALT, GPT at 30 ° C)
+Eosinophils
+Growth hormone - arginine stimulation
+Chloride (Cl-)
+Calcium
+Cortisol, serum
+Thyroid-stimulating hormone, serum or plasma
+Amylase, serum
+Prothrombin time
+Osmolality, serum
+Proteins, serum, Total (recumbent)
+Mean corpuscular volume
+Potassium (K+)
+Mean corpuscular hemoglobin
+Thyroidal iodine (123I) uptake
+Ferritin, serum
+Aspartate aminotransferase (AST, GOT at 30 ° C)
+Osmolality
+Calcium, serum (Ca2+)
+Chloride
+Volume
+Magnesium (Mg2+)
+Bilirubin, serum (adult) Direct
+Bilirubin, serum (adult) Total
+PO2, Gases, arterial blood (room air)
+Hemoglobin, blood
+pH, Gases, arterial blood (room air)
+Bleeding time (template)
+Iron
+Uric acid
+Gamma globulin
+Estriol, total, serum (in pregnancy)
+Urea nitrogen, serum (BUN)
+Phosphorus (inorganic), serum
