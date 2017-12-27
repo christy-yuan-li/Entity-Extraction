@@ -1,6 +1,6 @@
 # Entity-Extraction
 
-This is a package of extracting entities of various types. The included functions are: 
+This is a package of extracting entities of various types from textual input. The functions implemented are: 
 
 1. Time entity extraction (TimeEntity.py).
 
