@@ -18,6 +18,8 @@ This is a package of extracting entities of various types from textual input. Th
 
 ## Preparation 
 
+Download full entityDictionaries folder from repo owner. 
+
 Download stanford-corenlp-parser library from following link and put the folder under current path.
 ``https://drive.google.com/file/d/0BzgjLMJvxtcpeUpjNTBSMTYwamc/view?usp=sharing``
 
