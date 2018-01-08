@@ -14,37 +14,7 @@ This is a package of extracting entities of various types from textual input. Th
 
 ### Examples 
 
-#### Time entity extraction 
-`over 1 year, a study is conducted to assess the antileukemic activity of a new tyrosine kinase inhibitor in patients with chronic myeloid leukemia in blast crisis.`
-
-[entity]:  over 1 year \t[charStartPos]:  0 \t[charEndPos]:  11
-
-`a 63-year-old woman comes to the physician because of a 2-week history of fatigue, malaise, nausea and vomiting, and decreased appetite; these symptoms have worsened during the past week.`
-
-[entity]:  2-week history of \t[charStartPos]:  56 \t[charEndPos]:  73
-
-`a 63-year-old woman comes to the physician because of a 2-week history of fatigue, malaise, nausea and vomiting, and decreased appetite; these symptoms have worsened during the past week. she was diagnosed with tuberculosis 3 months ago`
-
-[entity]:  2-week history of \t[charStartPos]:  56 \t[charEndPos]:  73
-[entity]:  3 months ago \t[charStartPos]:  224 \t[charEndPos]:  236
-
-#### Medical entity extraction 
-`An 83-year-old man comes to the physician because of a 2-day history of constant severe pain of his right knee.`
-
-[entity]:  pain   \t[category]:  symptoms   \t[startPos]:  15  \t[endPos]:  16
-  
-`Treatment with ibuprofen during the next week significantly improves his condition.`
-
-[entity]:  ibuprofen  \t[category]:  medication  \t[startPos]:  2  \t[endPos]:  3
- 
-`A 16-year-old boy comes to the physician because of a rash on his left inner thigh that first appeared 2 days after he returned from a hunting trip with friends in Minnesota.`
-
-[entity]:  rash  \t[category]:  disease  \t[startPos]:  10  \t[endPos]:  11
-
-`A 63-year-old woman comes to the physician because of a 2-week history of fatigue, malaise, nausea and vomiting, and decreased appetite`
-
-[entity]:  nausea \t[category]:  symptoms \t[startPos]:  15 \t[endPos]:  16
-
+![alt text](https://github.com/s1155026040/Entity-Extraction/blob/master/example.png)
 
 ## Preparation 
 
